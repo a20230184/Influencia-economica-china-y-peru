@@ -1,0 +1,46 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #6F4E37;
+}
+div{
+  justify-content: center;
+  align-items: center; 
+  display: flex;
+  margin: 30px;
+}
+.imagen img{
+height :300px
+}
+.titulo{
+  color: #b35600;
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+.enlace p{
+  font-size: 25px;
+  font-family: 'Forte', Times, serif;
+  text-align: center;
+}
+
+.subtitulo p{
+  color: #fff7f0;
+  font-size: 40px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+.descripcion p{
+  color: #fff7f0;
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+
+
+
+
+
